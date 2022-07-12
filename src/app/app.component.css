@@ -1,0 +1,15 @@
+.text-green {
+    color: green;
+}
+
+.text-red {
+    color: red;
+}
+
+.price-container {
+    display: flex;
+}
+
+.price-container > div {
+    width: 3.5rem;
+}
